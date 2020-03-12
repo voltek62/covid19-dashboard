@@ -4,8 +4,8 @@
         "post0": {
             "title": "COVID-19 growth analysis",
             "content": "This visualization was made by Thomas Wiecki1. . . Data sourced from &quot;2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE&quot; GitHub repository and recreates the (pay-walled) plot in the Financial Times. This code is provided under the BSD-3 License. Link to original notebook.&#8617; . |",
-            "url": "https://covid19growth.com/growth/2020/03/11/covid19_growth.html",
-            "relUrl": "/growth/2020/03/11/covid19_growth.html",
+            "url": "https://covid19growth.com/growth-analysis/",
+            "relUrl": "/growth-analysis/",
             "date": " • Mar 11, 2020"
         }
         
