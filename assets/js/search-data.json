@@ -4,7 +4,7 @@
         "post0": {
             "title": "COVID-19 growth analysis",
             "content": "Updated hourly by GitHub Actions. . This visualization was made by Thomas Wiecki1. . . Data sourced from &quot;2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE&quot; GitHub repository and recreates the (pay-walled) plot in the Financial Times. This code is provided under the BSD-3 License. Link to original notebook.&#8617; . |",
-            "url": "https://covid19growth.com/growth-analysis/",
+            "url": "https://covid19dashboards.com//growth-analysis/",
             "relUrl": "/growth-analysis/",
             "date": " • Mar 12, 2020"
         }
@@ -19,7 +19,7 @@
       ,"page1": {
           "title": "About",
           "content": "Do you have a visualization that you would like to add? Please submit a Pull Request1 or get in touch!2 . This website is powered by fastpages, a blogging platform that natively supports Jupyter notebooks in addition to other formats. . View this project on GitHub. . . Familiarity with [fastpages] is helpful. All you need to do is include the appropriate front matter in your notebook. See this guide. You can submit a Pull Request at https://github.com/machine-learning-apps/covid19-dashboard. &#8617; . | Feel free to get in touch on Twitter: @HamelHusain &#8617; . |",
-          "url": "https://covid19growth.com/about/",
+          "url": "https://covid19dashboards.com//about/",
           "relUrl": "/about/",
           "date": ""
       }
