@@ -51,7 +51,7 @@
   
       ,"page1": {
           "title": "About",
-          "content": "Do you have a visualization that you would like to add? Please submit a Pull Request1 or get in touch!2 . This website is powered by fastpages, a blogging platform that natively supports Jupyter notebooks in addition to other formats. . View this project on GitHub. . . Familiarity with fastpages is helpful. All you need to do is include the appropriate front matter in your notebook. See this guide. You can submit a Pull Request at https://github.com/machine-learning-apps/covid19-dashboard. &#8617; . | Feel free to get in touch on Twitter: @HamelHusain &#8617; . |",
+          "content": "About This Project . This site was built by Hamel Husain. View this project on GitHub. . This website is powered by fastpages, a blogging platform that natively supports Jupyter notebooks in addition to other formats. . Contributing Guide . Do you have a visualization that you would like to add? Or would you like to improve or fix an existing visualization? . Please submit a pull request1 or get in touch!2 . . Familiarity with fastpages is helpful. All you need to do is include the appropriate front matter in your notebook. See this guide. You can submit a Pull Request at https://github.com/machine-learning-apps/covid19-dashboard. &#8617; . | Feel free to get in touch on Twitter: @HamelHusain &#8617; . |",
           "url": "https://covid19dashboards.com/about/",
           "relUrl": "/about/",
           "date": ""
